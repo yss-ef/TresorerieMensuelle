@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleTresorerieMensuelleName'
+ModuleTresorerieMensuelleName = TresorerieMensuelle
+# Module description 'ModuleTresorerieMensuelleDesc'
+ModuleTresorerieMensuelleDesc = TresorerieMensuelle description
+
+#
+# Admin page
+#
+TresorerieMensuelleSetup = TresorerieMensuelle setup
+Settings = Settings
+TresorerieMensuelleSetupPage = TresorerieMensuelle setup page
+NewSection=New section
+TRESORERIEMENSUELLE_MYPARAM1 = My param 1
+TRESORERIEMENSUELLE_MYPARAM1Tooltip = My param 1 tooltip
+TRESORERIEMENSUELLE_MYPARAM2=My param 2
+TRESORERIEMENSUELLE_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+TresorerieMensuelleAbout = About TresorerieMensuelle
+TresorerieMensuelleAboutPage = TresorerieMensuelle about page
+
+#
+# Sample page
+#
+TresorerieMensuelleArea = Home TresorerieMensuelle
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
