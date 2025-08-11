@@ -61,11 +61,11 @@ class modTresorerieMensuelle extends DolibarrModules
         $this->name = preg_replace('/^mod/i', '', get_class($this));
 
         // Module description, used if translation string 'ModuleTresorerieMensuelleDesc' not found (TresorerieMensuelle is name of module).
-        $this->description = "TresorerieMensuelleDescription";
-        $this->descriptionlong = "TresorerieMensuelleDescription";
+        $this->description = "Tableau de bord qui affiche la tresorerie mensuel du mois en cours";
+        $this->descriptionlong = "Tableau de bord qui affiche la tresorerie mensuel du mois en cours";
 
         // Author
-        $this->editor_name = '';
+        $this->editor_name = 'yss_ef';
         $this->editor_url = '';
 
         // Version
